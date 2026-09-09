@@ -1,0 +1,16 @@
+# Python backend - not deployed to Vercel
+agent/
+api/
+forecasting/
+ingestion/
+matching/
+portfolio/
+risk/
+rl_verifier/
+rules/
+tests/
+hf_space/
+docker/
+docker-compose.yml
+requirements.txt
+*.py
